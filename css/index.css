@@ -5,5 +5,5 @@
 	width: 50%;
 }
 .bodywidth {
-	width: 50%;
+	max-width: 100vw;
 }
