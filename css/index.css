@@ -6,4 +6,5 @@
 }
 .bodywidth {
 	max-width: 100vw;
+	align-content: center;
 }
