@@ -11,3 +11,6 @@
 .imagePadding {
 	padding-right: 5px;
 }
+.row {
+	display: flex
+}
