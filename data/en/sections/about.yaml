@@ -1,0 +1,49 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: BSMS Computer Engineering Student with CS Intelligence Minor
+# your company information
+company:
+  name: Georgia Institute of Technology
+  url: "https://www.ece.gatech.edu"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "Nathans_One_Page_Resume.pdf"
+
+# a summary about you
+summary: 'I am a computer engineer with more than 3 years of working experience. I have worked with a wide array of projects ranging from legacy code to full stack development using CI/CD.
+'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/Nathan-Wang-GT"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/nathanwang-gt/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Python
+  percentage: 95
+  color: yellow
+- name: C/C++
+  percentage: 95
+  color: green
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Teambuilding
+  percentage: 90
+  color: orange
