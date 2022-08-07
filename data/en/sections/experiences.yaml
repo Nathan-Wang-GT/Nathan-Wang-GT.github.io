@@ -17,15 +17,16 @@ experiences:
     # company overview
     overview: T-Mobile is the second largest wireless network in the U.S.
   positions:
-  - designation: UofMagenta Intern for the Radio Frequency Team
+  - designation: DevOps Intern for the Radio Frequency Team
     start: May 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Aug 2022
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Designed and developed a log analyzer for legacy systems.
-    - Worked with Docker to test and containerize applications. 
-    - Created an ELK stack to visualize and parse the data.
+    - Designed and developed a Production level logging system for legacy builds.
+    - Worked with Docker to simulate cloud-native applications.
+    - Created an ELK stack to visualize and parse data.
+    - Developed an alert system using Grafana.
 
 - company:
     name: CarMax, Inc.
