@@ -23,3 +23,7 @@ skills:
 - name: Cloud Computing
   logo: "/images/Cloud.png"
   summary: "Worked with most of the major cloud services such as AWS and Azure."
+
+- name: Web Development
+  logo: "/images/WebDev.png"
+  summary: "Created static websites using HTML/YAML along with dynamic websites using React."

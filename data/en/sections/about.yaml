@@ -35,12 +35,15 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Python
-  percentage: 95
+# - name: Python
+#   percentage: 95
+#   color: yellow
+# - name: C/C++
+#   percentage: 95
+  # color: green
+- name: Management
+  percentage: 90
   color: yellow
-- name: C/C++
-  percentage: 95
-  color: green
 - name: Leadership
   percentage: 85
   color: blue
