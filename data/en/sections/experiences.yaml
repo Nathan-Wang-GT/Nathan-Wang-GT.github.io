@@ -50,27 +50,32 @@ experiences:
     location: Atlanta, GA
     overview: Georgia Tech is one of the leading universities in engineering and is reknown for their academics and research.
   positions:
-  - designation: Engineering Software Design Teaching Assistant
+  - designation: Advanced Programming Techniques Graduate Teaching Assistant
+    start: Aug 2022
+    #end: Jan 2022
+    responsibilities:
+    - Taught students how to write clear, concise, industry-level code with acceptable documentation standards.
+    - Improved student understanding towards advanced topics such as distributed programming and GPU programming.
+  - designation: Engineering Software Design Undergraduate Teaching Assistant
     start: Aug 2021
     end: Jan 2022
     responsibilities:
-    - Taught students how to write clear, concise, industry-level code with acceptable documentation standards.
     - Led undergraduate teaching assistants in hosting office hours and review sessions to address concerns and solidify knowledge in concepts learned in class.   
     - Further developed proficiency in C++ and embedded systems.
-  - designation: Programming with Hardware and Software Systems Teaching Assistant
+  - designation: Programming with Hardware and Software Systems Undergraduate Teaching Assistant
     start: Jan 2020
     end: May 2021
     responsibilities:
     - Assisted students with their work and concerns pertaining to MIPS Assembly and C software along with mBed hardware.
     - Coordinated with fellow teaching assistants to host review sessions to facilitate learning among students.
     - Developed proficiency in C/C++ and MIPS Assembly.
-  - designation: ECE Undergraduate Research Assistant
+  - designation: ECE Undergraduate Undergraduate Research Assistant
     start: Jan 2020
     end: May 2020
     responsibilities:
     - Created and tested Quasi-Electrostatic simulations of nanolaminate composites using C++.
     - Worked with a team to develop a program for matrix calculations.
-  - designation: Digital Systems Design Teaching Assistant
+  - designation: Digital Systems Design Undergraduate Teaching Assistant
     start: Aug 2019
     end: Dec 2019
     responsibilities:
