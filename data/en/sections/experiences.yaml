@@ -17,12 +17,13 @@ experiences:
     # company overview
     overview: T-Mobile is the second largest wireless network in the U.S.
   positions:
-  - designation: DevOps Intern for the Radio Frequency Team
+  - designation: DevOps Intern
     start: May 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Aug 2022
     # give some points about what was your responsibilities at the company.
     responsibilities:
+    - For the Radio Frequency Team
     - Designed and developed a Production level logging system for legacy builds.
     - Worked with Docker to simulate cloud-native applications.
     - Created an ELK stack to visualize and parse data.
