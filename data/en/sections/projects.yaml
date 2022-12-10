@@ -18,6 +18,8 @@ buttons:
   filter: "academic"
 - name: Personal
   filter: "personal"
+- name: Malware/Security
+  filter: "malware"
 
 # your projects
 projects:
@@ -39,6 +41,15 @@ projects:
   url: "https://nathan-wang-gt.github.io/creAItivity.github-io/"
   summary: An emotion classifier using Tensorflow and Google Collab.
   tags: ["personal", "machine-learning","academic"]
+
+- name: NSA Codebreaker 2022
+  logo: /images/Codebreaker.jpeg
+  role: Developer
+  timeline: "Nov 2022 - Dec 2022"
+  #repo: ""
+  url: "https://nsa-codebreaker.org/leaderboard"
+  summary: NSA Codebreaker is the annual malware competition hosted by the NSA. Topics such as reverse engineering, computer forensics, log analysis, and web analysis are covered in challenges.
+  tags: ["personal", "malware","academic"]
 
 - name: CarMax Innovation Garage
   logo: /images/InnovationGarage.jpeg
