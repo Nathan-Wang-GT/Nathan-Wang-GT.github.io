@@ -27,3 +27,7 @@ skills:
 - name: Web Development
   logo: "/images/WebDev.png"
   summary: "Created static websites using HTML/YAML along with dynamic websites using React."
+
+- name: Malware Analysis
+  logo: "/images/Malware.png"
+  summary: "Able to perform web analysis, reverse engineering, and create plug-ins on IDA Pro and PIN."
