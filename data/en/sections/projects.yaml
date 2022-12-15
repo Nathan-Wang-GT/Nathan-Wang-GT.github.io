@@ -38,8 +38,26 @@ projects:
   role: Developer
   timeline: "Sep 2021 - Dec 2021"
   #repo: ""
-  url: "https://nathan-wang-gt.github.io/creAItivity.github-io/"
+  repo: "https://nathan-wang-gt.github.io/creAItivity.github-io/"
   summary: An emotion classifier using Tensorflow and Google Collab.
+  tags: ["personal", "machine-learning","academic"]
+
+- name: Hand Gender Detector
+  logo: /images/Tensorflow.jpeg
+  role: Developer
+  timeline: "Nov 2022 - Dec 2022"
+  #repo: ""
+  url: "https://docs.google.com/spreadsheets/d/1PT7B1Db-M9ThQvKafc66fbhZfsNrwffC8XrEAuXuz0c/edit?usp=sharing"
+  summary: An detector to identify gender from hands using Tensorflow and Google Collab.
+  tags: ["personal", "machine-learning","academic"]
+
+- name: Recon Blind Multi Chess
+  logo: /images/chess.jpg
+  role: Runner-Up
+  timeline: "Mar 2022 - May 2022"
+  #repo: ""
+  repo: "https://github.com/Nathan-Wang-GT/ReconChess"
+  summary: An chess agent that uses Monte Carlo Tree Search and Epsilon-greedy sampling.
   tags: ["personal", "machine-learning","academic"]
 
 - name: NSA Codebreaker 2022
