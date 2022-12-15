@@ -20,7 +20,7 @@ experiences:
   - designation: DevOps Intern
     start: May 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Aug 2022
+    end: Aug 2022
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - For the Radio Frequency Team
@@ -53,7 +53,7 @@ experiences:
   positions:
   - designation: Advanced Programming Techniques Graduate Teaching Assistant
     start: Aug 2022
-    #end: Jan 2022
+    end: Dec 2022
     responsibilities:
     - Taught students how to write clear, concise, industry-level code with acceptable documentation standards.
     - Improved student understanding towards advanced topics such as distributed programming and GPU programming.
