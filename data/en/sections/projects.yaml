@@ -47,7 +47,7 @@ projects:
   role: Developer
   timeline: "Nov 2022 - Dec 2022"
   #repo: ""
-  url: "https://docs.google.com/spreadsheets/d/1PT7B1Db-M9ThQvKafc66fbhZfsNrwffC8XrEAuXuz0c/edit?usp=sharing"
+  url: "https://drive.google.com/drive/folders/1eDKEOAYxqghXMpEOV-KEUV7an_nAVjFy?usp=sharing"
   summary: An detector to identify gender from hands using Tensorflow and Google Collab.
   tags: ["personal", "machine-learning","academic"]
 
