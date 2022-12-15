@@ -57,7 +57,7 @@ projects:
   timeline: "Mar 2022 - May 2022"
   #repo: ""
   repo: "https://github.com/Nathan-Wang-GT/ReconChess"
-  summary: An chess agent that uses Monte Carlo Tree Search and Epsilon-greedy sampling.
+  summary: A chess agent that uses Monte Carlo Tree Search and Epsilon-greedy sampling for a class competition.
   tags: ["personal", "machine-learning","academic"]
 
 - name: NSA Codebreaker 2022
