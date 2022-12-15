@@ -48,11 +48,11 @@ projects:
   timeline: "Nov 2022 - Dec 2022"
   #repo: ""
   url: "https://drive.google.com/drive/folders/1eDKEOAYxqghXMpEOV-KEUV7an_nAVjFy?usp=sharing"
-  summary: An detector to identify gender from hands using Tensorflow and Google Collab.
+  summary: A detector to identify gender from hands using Tensorflow and Google Collab.
   tags: ["personal", "machine-learning","academic"]
 
 - name: Recon Blind Multi Chess
-  logo: /images/chess.jpg
+  #logo: /images/chess.jpg
   role: Runner-Up
   timeline: "Mar 2022 - May 2022"
   #repo: ""
