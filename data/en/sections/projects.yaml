@@ -38,7 +38,8 @@ projects:
   role: Lead Developer
   timeline: "Sep 2021 - Dec 2021"
   #repo: ""
-  repo: "https://nathan-wang-gt.github.io/creAItivity.github-io/"
+  # repo: "https://nathan-wang-gt.github.io/creAItivity.github-io/"
+  url: "https://nathan-wang-gt.github.io/creAItivity.github-io/"
   summary: An emotion classifier using Tensorflow and Google Colab.
   tags: ["personal", "machine-learning","academic"]
 
