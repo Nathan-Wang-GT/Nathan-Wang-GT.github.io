@@ -39,7 +39,7 @@ projects:
   timeline: "Sep 2021 - Dec 2021"
   #repo: ""
   repo: "https://nathan-wang-gt.github.io/creAItivity.github-io/"
-  summary: An emotion classifier using Tensorflow and Google Collab.
+  summary: An emotion classifier using Tensorflow and Google Colab.
   tags: ["personal", "machine-learning","academic"]
 
 - name: Hand Gender Detector
@@ -48,7 +48,7 @@ projects:
   timeline: "Nov 2022 - Dec 2022"
   #repo: ""
   url: "https://drive.google.com/drive/folders/1eDKEOAYxqghXMpEOV-KEUV7an_nAVjFy?usp=sharing"
-  summary: A detector to identify gender from hands using Tensorflow and Google Collab.
+  summary: A detector to identify gender from hands using Tensorflow and Google Colab.
   tags: ["personal", "machine-learning","academic"]
 
 - name: Recon Blind Multi Chess
