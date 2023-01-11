@@ -31,3 +31,7 @@ skills:
 - name: Malware Analysis
   logo: "/images/Malware.jpg"
   summary: "Able to perform web analysis, reverse engineering, and create plug-ins on IDA Pro and PIN."
+
+- name: Machine Learning
+  logo: "/images/ml.png"
+  summary: "Knowledgeable regarding a wide array of machine learning topics pertaining to supervised learning, unsupervised learning, and reinforcement learning."
