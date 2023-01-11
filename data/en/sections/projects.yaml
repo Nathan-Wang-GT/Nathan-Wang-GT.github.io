@@ -20,6 +20,8 @@ buttons:
   filter: "personal"
 - name: Malware/Security
   filter: "malware"
+- name: Machine Learning
+  filter: "machine-learning"
 
 # your projects
 projects:
