@@ -48,7 +48,7 @@ experiences:
     name: Georgia Institute of Technology
     url: "https://www.gatech.edu"
     location: Atlanta, GA
-    overview: Georgia Tech is one of the leading universities in engineering and is renown for their academics and research.
+    # overview: Georgia Tech is one of the leading universities in engineering and is renown for their academics and research.
   positions:
   - designation: Engineering Software Design Undergraduate Teaching Assistant
     start: Aug 2021
@@ -77,7 +77,7 @@ experiences:
     name: Georgia Institute of Technology
     url: "https://www.gatech.edu"
     location: Atlanta, GA
-    overview: Georgia Tech is one of the leading universities in engineering and is renown for their academics and research.
+    # overview: Georgia Tech is one of the leading universities in engineering and is renown for their academics and research.
   positions:
   # - designation: Advanced Programming Techniques Graduate Teaching Assistant
   #   start: Aug 2022
@@ -129,7 +129,7 @@ experiences:
     name: Georgia Institute of Technology
     url: "https://www.gatech.edu"
     location: Atlanta, GA
-    overview: Georgia Tech is one of the leading universities in engineering and is renown for their academics and research.
+    # overview: Georgia Tech is one of the leading universities in engineering and is renown for their academics and research.
   positions:
   - designation: ECE Undergraduate Research Assistant
     start: Jan 2020
@@ -142,7 +142,7 @@ experiences:
     name: Georgia Institute of Technology
     url: "https://www.gatech.edu"
     location: Atlanta, GA
-    overview: Georgia Tech is one of the leading universities in engineering and is renown for their academics and research.
+    # overview: Georgia Tech is one of the leading universities in engineering and is renown for their academics and research.
   positions:
   - designation: Digital Systems Design Undergraduate Teaching Assistant
     start: Aug 2019
