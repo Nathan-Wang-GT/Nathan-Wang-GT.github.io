@@ -13,6 +13,19 @@ experiences:
 
 
 - company:
+    name: Georgia Institute of Technology
+    url: "https://www.gatech.edu"
+    location: Atlanta, GA
+    overview: Georgia Tech is one of the leading universities in engineering and is renown for their academics and research.
+  positions:
+  - designation: Advanced Programming Techniques Graduate Teaching Assistant
+    start: Aug 2022
+    end: Dec 2022
+    responsibilities:
+    - Taught students how to write clear, concise, industry-level code with acceptable documentation standards.
+    - Improved student understanding towards advanced topics such as distributed programming and GPU programming.
+
+- company:
     name: T-Mobile
     url: "https://www.t-mobile.com"
     location: Bellevue, WA
@@ -53,12 +66,12 @@ experiences:
     location: Atlanta, GA
     overview: Georgia Tech is one of the leading universities in engineering and is renown for their academics and research.
   positions:
-  - designation: Advanced Programming Techniques Graduate Teaching Assistant
-    start: Aug 2022
-    end: Dec 2022
-    responsibilities:
-    - Taught students how to write clear, concise, industry-level code with acceptable documentation standards.
-    - Improved student understanding towards advanced topics such as distributed programming and GPU programming.
+  # - designation: Advanced Programming Techniques Graduate Teaching Assistant
+  #   start: Aug 2022
+  #   end: Dec 2022
+  #   responsibilities:
+  #   - Taught students how to write clear, concise, industry-level code with acceptable documentation standards.
+  #   - Improved student understanding towards advanced topics such as distributed programming and GPU programming.
   - designation: Engineering Software Design Undergraduate Teaching Assistant
     start: Aug 2021
     end: Jan 2022
