@@ -22,13 +22,15 @@ buttons:
   filter: "malware"
 - name: Machine Learning
   filter: "machine-learning"
+- name: Intrapreneurship
+  filter: "intrapreneurship"
 
 # your projects
 projects:
 
 - name: Senior Design
   logo: /images/Roper.png
-  role: Developer
+  role: Developer/Web Master/Finance Manager
   timeline: "Jan 2022 - May 2022"
   # repo: https://nathan-wang-gt.github.io/creAItivity.github-io/
   #url: ""
@@ -80,4 +82,11 @@ projects:
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: A web crawler was created through Puppeteer and Azure Pipeline. A web extension was created for user visualization.
   tags: ["professional", "personal", "cloud"]
+
+- name: Microsoft Intrapreneurship Project
+  #logo:
+  role: Team Member
+  timeline: "Aug. 2022 - Dec. 2022"
+  summary: The team developed a intrapreneurial business idea that Microsoft could possibly implement. Analysis of Balance Sheets and Income Statements along wih implementations of Net Present Value, Sensitivity Tables, and Two-by-Two Matrices were used to support and validate the team's business thesis.
+  tags: ["academic", "intrapreneurial"]
 
