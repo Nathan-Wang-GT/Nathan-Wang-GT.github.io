@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: BSMS Computer Engineering Student with CS Intelligence Minor | US Citizen
+designation: BSMS Computer Engineering Student with CS Intelligence Minor
 # your company information
 company:
   name: Georgia Institute of Technology
@@ -18,7 +18,7 @@ company:
 resume: "Nathans_One_Page_Resume.pdf"
 
 # a summary about you
-summary: 'I am a computer engineer with more than 3 years of working experience. I have worked with a wide array of projects ranging from legacy code to full stack development using CI/CD.
+summary: 'I am a computer engineer with more than 3 years of working experience. I have worked with a wide array of projects ranging from legacy code to full stack development using CI/CD. I am a US Citizen and I am willing to relocate.
 '
 
 # your social links
