@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: BSMS Computer Engineering Student with CS Intelligence Minor
+designation: BSMS Computer Engineering Student with CS Intelligence Minor | US Citizen
 # your company information
 company:
   name: Georgia Institute of Technology
@@ -33,9 +33,6 @@ socialLinks:
 - name: Email
   icon: "fa-solid fa-envelope"
   url: "nywang08@gmail.com"
-- name: Cell Phone
-  icon: "fa-duotone fa-phone"
-  url: "484-755-8771"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
