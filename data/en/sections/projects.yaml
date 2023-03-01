@@ -84,9 +84,9 @@ projects:
   tags: ["professional", "personal", "cloud"]
 
 - name: Microsoft Intrapreneurship Project
-  #logo:
+  logo: /images/microsoft.png
   role: Team Member
   timeline: "Aug. 2022 - Dec. 2022"
   summary: The team developed a intrapreneurial business idea that Microsoft could possibly implement. Analysis of Balance Sheets and Income Statements along wih implementations of Net Present Value, Sensitivity Tables, and Two-by-Two Matrices were used to support and validate the team's business thesis.
-  tags: ["academic", "intrapreneurial"]
+  tags: ["academic", "intrapreneurship"]
 
