@@ -46,7 +46,7 @@ experiences:
 
 - company:
     name: Georgia Institute of Technology
-    url: "https://www.gatech.edu"
+    url: "https://www.ece.gatech.edu/courses/course_outline/ECE2036" #"https://www.gatech.edu"
     location: Atlanta, GA
     # overview: Georgia Tech is one of the leading universities in engineering and is renown for their academics and research.
   positions:
@@ -140,7 +140,7 @@ experiences:
 
 - company:
     name: Georgia Institute of Technology
-    url: "https://www.gatech.edu"
+    url: "https://www.ece.gatech.edu/courses/course_outline/ECE2031" #"https://www.gatech.edu"
     location: Atlanta, GA
     # overview: Georgia Tech is one of the leading universities in engineering and is renown for their academics and research.
   positions:
