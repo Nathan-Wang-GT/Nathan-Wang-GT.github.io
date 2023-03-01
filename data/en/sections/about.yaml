@@ -32,7 +32,7 @@ socialLinks:
   url: "https://www.linkedin.com/in/nathanwang-gt/"
 - name: Email
   icon: "fa-solid fa-envelope"
-  url: "mailto:nywang08@gmail.com"
+  url: "nywang08@gmail.com"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
