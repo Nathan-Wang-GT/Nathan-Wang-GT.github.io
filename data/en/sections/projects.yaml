@@ -90,3 +90,11 @@ projects:
   summary: The team developed a intrapreneurial business idea that Microsoft could possibly implement. Analysis of Balance Sheets and Income Statements along wih implementations of Net Present Value, Sensitivity Tables, and Two-by-Two Matrices were used to support and validate the team's business thesis.
   tags: ["academic", "intrapreneurship"]
 
+- name: Diabetic Retinopathy Severity Classifier
+  logo: /images/Tensorflow.jpeg
+  role: Developer
+  timeline: "Nov 2022 - Dec 2022"
+  repo: "https://github.com/DamianHuerta/ECE8803FinalProject.git"
+  #url: "https://drive.google.com/drive/folders/1eDKEOAYxqghXMpEOV-KEUV7an_nAVjFy?usp=sharing"
+  summary: The team analyzed the usage of multiple classification techniques (K-Means, Gaussian Mixture Models, K-Nearest Neighbors, Convolutional Neural Networks) on the identification on diabetic retinopathy severity levels.
+  tags: ["personal", "machine-learning","academic"]
