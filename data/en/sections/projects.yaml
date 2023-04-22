@@ -65,6 +65,15 @@ projects:
   summary: A chess agent that uses Monte Carlo Tree Search and Epsilon-greedy sampling for a class competition.
   tags: ["personal", "machine-learning","academic"]
 
+- name: Diabetic Retinopathy Severity ML Classifier
+  logo: /images/Tensorflow.jpeg
+  role: Developer
+  timeline: "Mar. 2023 - Apr. 2023"
+  repo: "https://github.com/DamianHuerta/ECE8803FinalProject.git"
+  #url: "https://drive.google.com/drive/folders/1eDKEOAYxqghXMpEOV-KEUV7an_nAVjFy?usp=sharing"
+  summary: The team analyzed the usage of multiple classification models (K-Means, Gaussian Mixture Models, K-Nearest Neighbors, Convolutional Neural Networks) on the identification on diabetic retinopathy severity levels.
+  tags: ["personal", "machine-learning","academic"]
+
 - name: NSA Codebreaker 2022
   logo: /images/Codebreaker.jpeg
   role: Competitor
@@ -90,11 +99,4 @@ projects:
   summary: The team developed a intrapreneurial business idea that Microsoft could possibly implement. Analysis of Balance Sheets and Income Statements along wih implementations of Net Present Value, Sensitivity Tables, and Two-by-Two Matrices were used to support and validate the team's business thesis.
   tags: ["academic", "intrapreneurship"]
 
-- name: Diabetic Retinopathy Severity ML Classifier
-  logo: /images/Tensorflow.jpeg
-  role: Developer
-  timeline: "Mar. 2023 - Apr. 2023"
-  repo: "https://github.com/DamianHuerta/ECE8803FinalProject.git"
-  #url: "https://drive.google.com/drive/folders/1eDKEOAYxqghXMpEOV-KEUV7an_nAVjFy?usp=sharing"
-  summary: The team analyzed the usage of multiple classification models (K-Means, Gaussian Mixture Models, K-Nearest Neighbors, Convolutional Neural Networks) on the identification on diabetic retinopathy severity levels.
-  tags: ["personal", "machine-learning","academic"]
+
