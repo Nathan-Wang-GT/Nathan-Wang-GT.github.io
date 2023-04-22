@@ -90,7 +90,7 @@ projects:
   summary: The team developed a intrapreneurial business idea that Microsoft could possibly implement. Analysis of Balance Sheets and Income Statements along wih implementations of Net Present Value, Sensitivity Tables, and Two-by-Two Matrices were used to support and validate the team's business thesis.
   tags: ["academic", "intrapreneurship"]
 
-- name: Diabetic Retinopathy Severity Classifier
+- name: Diabetic Retinopathy Severity ML Classifier
   logo: /images/Tensorflow.jpeg
   role: Developer
   timeline: "Mar. 2023 - Apr. 2023"
