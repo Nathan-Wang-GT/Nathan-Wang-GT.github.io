@@ -96,5 +96,5 @@ projects:
   timeline: "Mar. 2023 - Apr. 2023"
   repo: "https://github.com/DamianHuerta/ECE8803FinalProject.git"
   #url: "https://drive.google.com/drive/folders/1eDKEOAYxqghXMpEOV-KEUV7an_nAVjFy?usp=sharing"
-  summary: The team analyzed the usage of multiple classification techniques (K-Means, Gaussian Mixture Models, K-Nearest Neighbors, Convolutional Neural Networks) on the identification on diabetic retinopathy severity levels.
+  summary: The team analyzed the usage of multiple classification models (K-Means, Gaussian Mixture Models, K-Nearest Neighbors, Convolutional Neural Networks) on the identification on diabetic retinopathy severity levels.
   tags: ["personal", "machine-learning","academic"]
