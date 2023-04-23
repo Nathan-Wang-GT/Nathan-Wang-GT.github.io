@@ -11,6 +11,19 @@ section:
 # Your experiences
 experiences:
 
+- company:
+    name: Self-Employed
+    #url: "https://www.ece.gatech.edu/courses/course_outline/ECE6122" #https://www.gatech.edu"
+    location: Remote #Atlanta, GA
+    #overview: Georgia Tech is one of the leading universities in engineering and is renown for their academics and research.
+  positions:
+  - designation: Tutor
+    start: Mar 2023
+    #end: Dec 2023
+    responsibilities:
+    - Taught high school students wide range of topics such as chemistry and computer science.
+    - Helped students understand theory behind more difficult topics covered in class and better prepare for exams.
+    #- Improved student understanding towards advanced topics such as distributed programming and GPU programming.
 
 - company:
     name: Georgia Institute of Technology
