@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: BSMS Computer Engineering Student with CS Intelligence Minor
+designation: Recent Master's Computer Engineering Student with CS Intelligence Minor #BSMS Computer Engineering Student with CS Intelligence Minor
 # your company information
 company:
   name: Georgia Institute of Technology

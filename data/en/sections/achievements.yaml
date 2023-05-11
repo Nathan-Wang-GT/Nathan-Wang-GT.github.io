@@ -10,6 +10,10 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Graduation
+- title: Bachelor's Degree
   image: /images/GT.png
-  summary: Received Bachelor of Science in Computer Engineering from Georgia Institute of Technology.
+  summary: Received Bachelor's of Science in Computer Engineering with a minor in Artificial Intelligence from Georgia Institute of Technology.
+
+- title: Master's Degree
+  image: /images/GT.png
+  summary: Received Master's of Science in Computer Engineering Systems and Software from Georgia Institute of Technology.
