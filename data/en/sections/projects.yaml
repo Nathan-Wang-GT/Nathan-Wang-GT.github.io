@@ -22,6 +22,8 @@ buttons:
   filter: "malware"
 - name: Machine Learning
   filter: "machine-learning"
+- name: Networks
+  filter: "networks"
 - name: Intrapreneurship
   filter: "intrapreneurship"
 
@@ -68,7 +70,7 @@ projects:
 - name: Diabetic Retinopathy Severity ML Classifier
   logo: /images/Tensorflow.jpeg
   role: Developer
-  timeline: "Mar. 2023 - Apr. 2023"
+  timeline: "Mar 2023 - Apr 2023"
   repo: "https://github.com/DamianHuerta/ECE8803FinalProject.git"
   #url: "https://drive.google.com/drive/folders/1eDKEOAYxqghXMpEOV-KEUV7an_nAVjFy?usp=sharing"
   summary: The team analyzed the usage of multiple classification models (K-Means, Gaussian Mixture Models, K-Nearest Neighbors, Convolutional Neural Networks) on the identification on diabetic retinopathy severity levels.
@@ -86,7 +88,7 @@ projects:
 - name: CarMax Innovation Garage
   logo: /images/InnovationGarage.jpeg
   role: Developer and Finalist
-  timeline: "July 2021 - Aug 2021"
+  timeline: "Jul 2021 - Aug 2021"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: A web crawler was created through Puppeteer and Azure Pipeline. A web extension was created for user visualization.
@@ -95,8 +97,17 @@ projects:
 - name: Microsoft Intrapreneurship Project
   logo: /images/microsoft.png
   role: Team Member
-  timeline: "Aug. 2022 - Dec. 2022"
+  timeline: "Aug 2022 - Dec 2022"
   summary: The team developed a intrapreneurial business idea that Microsoft could possibly implement. Analysis of Balance Sheets and Income Statements along wih implementations of Net Present Value, Sensitivity Tables, and Two-by-Two Matrices were used to support and validate the team's business thesis.
   tags: ["academic", "intrapreneurship"]
+
+- name: Hot Spot Mobility Model
+  #logo: /images/chess.jpg
+  role: Developer
+  timeline: "Mar 2023 - May 2023"
+  #repo: ""
+  repo: "https://github.com/Nathan-Wang-GT/HotSpotMobility"
+  summary: An implementation of the simplified version of the Hot Spot Mobility Model on ns3 version 3.37. The model is built for 2D simulations and chooses waypoints off the straight-line path between the current location and destination node.
+  tags: ["networks","academic"]
 
 
