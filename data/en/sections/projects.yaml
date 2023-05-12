@@ -110,4 +110,13 @@ projects:
   summary: An implementation of the simplified version of the Hot Spot Mobility Model on ns3 version 3.37. The model is built for 2D simulations and chooses waypoints off the straight-line path between the current location and destination node.
   tags: ["networks","academic"]
 
+- name: GitHub Repositories Leaked Secrets Analysis
+  #logo: /images/chess.jpg
+  role: Analyst
+  timeline: "Mar 2023 - May 2023"
+  #repo: ""
+  url: "https://drive.google.com/drive/folders/1O_glEaJmPguR0yvZz82dBCw6xr4SLnEl?usp=share_link"
+  summary: An analysis of the current state of security in terms of leaked secrets in public GitHub repositories.
+  tags: ["malware","academic"]
+
 
