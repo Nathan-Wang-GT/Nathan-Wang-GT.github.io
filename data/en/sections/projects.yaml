@@ -36,7 +36,7 @@ projects:
   timeline: "Jan 2022 - May 2022"
   # repo: https://nathan-wang-gt.github.io/creAItivity.github-io/
   #url: ""
-  summary: A prototype with collaboration with GEA Roper Corporation.
+  summary: A prototype with collaboration with GEA Roper Corporation. The prototype was created with wood CNCs, 3D printers, and laser cutters, and the circuit board was designed using a PCB mill and wired through soldering irons. The prototype was run using an Arduino.
   tags: ["professional", "academic"]
 
 - name: Emotion Classifier
@@ -46,7 +46,7 @@ projects:
   #repo: ""
   # repo: "https://nathan-wang-gt.github.io/creAItivity.github-io/"
   url: "https://nathan-wang-gt.github.io/creAItivity.github-io/"
-  summary: An emotion classifier using Tensorflow and Google Colab.
+  summary: An emotion classifier using Tensorflow and Google Colab. The detector is designed to detect the four main emotions (aggressive, euphoric, melancholic, and calm) based off each image.
   tags: ["personal", "machine-learning","academic"]
 
 - name: Hand Gender Detector
