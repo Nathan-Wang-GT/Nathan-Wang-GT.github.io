@@ -82,7 +82,7 @@ projects:
   timeline: "Nov 2022 - Dec 2022"
   #repo: ""
   url: "https://nsa-codebreaker.org/leaderboard"
-  summary: NSA Codebreaker is the annual malware competition hosted by the NSA. Topics such as reverse engineering, computer forensics, log analysis, and web analysis are covered in challenges.
+  summary: NSA Codebreaker is the annual malware competition hosted by the NSA. Topics such as reverse engineering, computer forensics, log analysis, and web analysis are covered in challenges. Georgia Tech ended up winning first place out of all of the competing universities.
   tags: ["personal", "malware","academic"]
 
 - name: CarMax Innovation Garage
