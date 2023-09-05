@@ -12,6 +12,20 @@ section:
 experiences:
 
 - company:
+    name: Ascentta
+    #url: "https://www.ece.gatech.edu/courses/course_outline/ECE6122" #https://www.gatech.edu"
+    location: Remote
+    #overview: Georgia Tech is one of the leading universities in engineering and is renown for their academics and research.
+  positions:
+  - designation: IT Specialist
+    start: July 2023
+    #end: Dec 2022
+    responsibilities:
+    - Designed and developed a specification package using a Python GUI to support the sales team in their automation process.
+
+
+
+- company:
     name: Self-Employed
     #url: "https://www.ece.gatech.edu/courses/course_outline/ECE6122" #https://www.gatech.edu"
     location: Remote #Atlanta, GA
