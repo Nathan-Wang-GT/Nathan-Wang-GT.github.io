@@ -34,6 +34,12 @@ socialLinks:
   icon: "fa-solid fa-envelope"
   url: "nywang08@gmail.com"
 
+
+badges:
+- type: certification
+  name: "Microsoft Certified: Azure AI Fundamentals"
+  url: "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification"
+  badge: "https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
