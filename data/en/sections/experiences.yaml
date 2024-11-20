@@ -20,7 +20,7 @@ experiences:
     start: July 2024
     responsibilities:
     - Performs software deployments and maintains configuration as Software Configuration Manager to all 747, 767, and 777/777x automated equipment for safe and reliable aircraft testing and production.
-    - Utilizes knowledge from retired co-workers to transition from \textbf{ClearCase}, an obsolete software repository, to \textbf{GitLab}, a modern software repository following current Boeing standards, which reduces overall technical debt.
+    - Utilizes knowledge from retired co-workers to transition from ClearCase, an obsolete software repository, to GitLab, a modern software repository following current Boeing standards, which reduces overall technical debt.
     - Creates system test plans for replacement of critical aging equipment, increasing efficiency and preventing production-level failures.
     - Authors and reviews reviews requirements for upcoming Functional Test Equipment and Software to accommodate for changes in production standards and transitions into software updates.
     - Prevents line-stoppers for final assembly testing by debugging issues with equipment/airplane to help airplanes pass tests and make deliveries.
